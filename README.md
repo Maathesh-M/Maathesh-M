@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Maathesh 👋
 
-<!--
-**Maathesh-M/Maathesh-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology student (2023–2027)
+🎯 Building toward a career as a **Cloud / DevOps Engineer**
 
-Here are some ideas to get you started:
+I'm currently focused on getting hands-on and internship-ready by the end of 2026 — learning by building real, deployed projects rather than just following tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔭 Currently learning/working with**
+`AWS` · `Linux` · `Bash` · `Docker` · `Terraform` · `CI/CD` · `Kubernetes`
+
+**🛠️ Also comfortable with**
+`Python` · `Git & GitHub` · `Java`
+
+---
+
+**📌 A few things I've built**
+- [`cloud-devops-project`](https://github.com/Maathesh-M/cloud-devops-project) — Static site deployed on AWS S3 with a GitHub Actions CI/CD pipeline
+- [`internet-speed-prediction`](https://github.com/Maathesh-M/internet-speed-prediction) — ML regression project (Random Forest + Streamlit), documented with honest EDA findings
+- [Full portfolio →](https://maathesh-m.github.io/portfolio/)
+
+---
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/maathesh-m)
